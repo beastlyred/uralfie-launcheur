@@ -1,4 +1,4 @@
-# FiveM-Server-Launcher
+# Uralife-Server-Launcher
 
 ### Launcher Preview
 
