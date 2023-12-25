@@ -1,0 +1,15 @@
+{
+    "useOverlay": false,
+    "discord":"https://uralife.fr/discord",
+    "servers":[
+        {
+            "svname": "Uralife Rp Fa",
+            "ip":"666m38"
+        },
+        {
+            "svname": "Uralife FivePd RP",
+            "ip":"vyyql5"
+        }
+    ]
+
+}
